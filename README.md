@@ -28,25 +28,36 @@
 <br>
 <br>
 
-**Другие сертификаты**
+### Другие сертификаты
 
-<br>
-
-<a href="./certificates/Поколение Python.pdf" target="_blank">
-  <img src="./certificates/Поколение Python.jpg" alt="Сертификат Karpov.courses" width="100%"/>
-</a>
-
-<br>
-
-<a href="./certificates/Тренажер по SQL.pdf" target="_blank">
-  <img src="./certificates/Тренажер по SQL_page-0001.jpg" alt="Сертификат Karpov.courses" width="100%"/>
-</a>
-
-<br>
-
-<a href="./certificates/NumPy.pdf" target="_blank">
-  <img src="./certificates/NumPy_page-0001.jpg" alt="Сертификат Karpov.courses" width="100%"/>
-</a>
+<table align="center">
+ <tr>
+  <!-- Сертификат 1: Поколение Python -->
+  <td align="center">
+    <a href="https://stepik.org/cert/2309933" target="_blank">
+      <img src="./certificates/Поколение Python.jpg" alt="Сертификат Поколение Python" width="400">
+    </a>
+  </td>
+  <!-- Сертификат 2: SQL -->
+  <td align="center">
+    <a href="https://stepik.org/cert/2772845" target="_blank">
+      <img src="./certificates/Тренажер по SQL_page-0001.jpg" alt="Сертификат по SQL" width="400">
+    </a>
+  </td>
+ </tr>
+ <tr>
+  <!-- Сертификат 3: NumPy -->
+  <td align="center">
+    <a href="https://stepik.org/cert/2771673" target="_blank">
+      <img src="./certificates/NumPy_page-0001.jpg" alt="Сертификат по NumPy" width="400">
+    </a>
+  </td>
+  <!-- Ячейка 4: можете оставить пустой или добавить еще один сертификат -->
+  <td align="center">
+    <!-- Сюда можно будет добавить четвертый сертификат в будущем -->
+  </td>
+ </tr>
+</table>
 
 ## 📫 Как связаться со мной
 
