@@ -22,7 +22,7 @@
 <br>
 
 <a href="./certificates/Сертификат.pdf" target="_blank">
-  <img src="./certificates/Сертификат-изображения-0.jpg" alt="Сертификат Karpov.courses" width="600"/>
+  <img src="./certificates/Сертификат-изображения-0.jpg" alt="Сертификат Karpov.courses" width="100%"/>
 </a>
 
 ## 📫 Как связаться со мной
