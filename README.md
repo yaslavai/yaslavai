@@ -21,7 +21,7 @@
 
 <br>
 
-<a href="./certificates/Сертификат.pdf" target="_blank">
+<a href="https://lab.karpov.courses/certificate/d12b481f-638e-46e2-8473-394c4affa557/" target="_blank">
   <img src="./certificates/Сертификат-изображения-0.jpg" alt="Сертификат Karpov.courses" width="100%"/>
 </a>
 
