@@ -25,6 +25,28 @@
   <img src="./certificates/Сертификат-изображения-0.jpg" alt="Сертификат Karpov.courses" width="100%"/>
 </a>
 
+<br>
+
+**Другие сертификаты**
+
+<br>
+
+<a href="./certificates/Поколение Python.pdf" target="_blank">
+  <img src="./certificates/Поколение Python.jpg" alt="Сертификат Karpov.courses" width="100%"/>
+</a>
+
+<br>
+
+<a href="./certificates/Тренажер по SQL.pdf" target="_blank">
+  <img src="./certificates/Тренажер по SQL_page-0001.jpg" alt="Сертификат Karpov.courses" width="100%"/>
+</a>
+
+<br>
+
+<a href="./certificates/NumPy.pdf" target="_blank">
+  <img src="./certificates/NumPy_page-0001.jpg" alt="Сертификат Karpov.courses" width="100%"/>
+</a>
+
 ## 📫 Как связаться со мной
 
 <p align="left">
